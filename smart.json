@@ -1,10 +1,9 @@
 {
   "name": "lodash",
   "description": "Lo-Dash.js packaged for Meteor",
-  "homepage": "https://github.com/alethes/meteor-lodash",
-  "author": "Alethes <pleasesenditthere@gmail.com>",
-  "version": "0.7.0",
-  "git": "https://github.com/alethes/meteor-lodash.git",
+  "homepage": "https://github.com/aknuds1/meteor-lodash",
+  "author": "Arve Knudsen <arve.knudsen@gmail.com>",
+  "version": "0.8.0",
+  "git": "https://github.com/aknuds1/meteor-lodash.git",
   "packages" : {}
 }
-

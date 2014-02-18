@@ -3,6 +3,6 @@ Package.describe({
 });
 
 Package.on_use(function (api) {
+  api.add_files(['lodash.compat.js', 'post.js']);
   api.export('lodash');
-  api.add_files(['lodash.js', 'post.js']);
 });
